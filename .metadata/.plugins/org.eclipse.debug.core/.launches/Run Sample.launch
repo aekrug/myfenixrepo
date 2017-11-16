@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="connectiq.launcher.AppLauncher">
+<stringAttribute key="connectiq.debugInfo" value="C:\workspaces\hello\MyZoneMEPs\bin\MyZoneMEPs.prg.debug.xml"/>
+<stringAttribute key="connectiq.prg" value="C:\workspaces\hello\MyZoneMEPs\bin\MyZoneMEPs.prg"/>
+<stringAttribute key="connectiq.project" value="MyZoneMEPs"/>
+<stringAttribute key="connectiq.targetDevice" value="fenix5s"/>
+<stringAttribute key="connectiq.targetSdk" value="2.2.0"/>
+<stringAttribute key="connectiq.workingDir" value="C:\workspaces\hello\MyZoneMEPs"/>
+</launchConfiguration>
