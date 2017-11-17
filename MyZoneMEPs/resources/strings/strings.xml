@@ -1,5 +1,7 @@
 <strings>
     <string id="AppName">MyZoneMEPs</string>
 
-    <string id="label">MEPs</string>
+    <string id="meplabel">MEPs</string>
+    <string id="hrlabel">HR</string>
+    <string id="hrperlabel">HR%</string>
 </strings>

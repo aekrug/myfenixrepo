@@ -1,124 +1,143 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="18" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="19" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="20" pc="268435478" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="21" pc="268435491" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="22" pc="268435504" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="23" pc="268435517" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="24" pc="268435530" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="25" pc="268435543" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="26" pc="268435556" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="27" pc="268435569" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="28" pc="268435582" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="33" pc="268435618" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="34" pc="268435622" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="37" pc="268435641" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="38" pc="268435664" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="42" pc="268435733" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="46" pc="268435802" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="50" pc="268435871" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="54" pc="268435917" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="55" pc="268435960" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="56" pc="268435984" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="57" pc="268436006" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="58" pc="268436030" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="61" pc="268436046" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="62" pc="268436098" symbol="onLayout"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="69" pc="268436102" symbol="compute"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="71" pc="268436106" symbol="compute"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="73" pc="268436120" symbol="compute"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="74" pc="268436132" symbol="compute"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="79" pc="268436149" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="81" pc="268436153" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="82" pc="268436177" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="83" pc="268436201" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="84" pc="268436225" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="85" pc="268436249" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="89" pc="268436283" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="93" pc="268436304" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="94" pc="268436308" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="95" pc="268436319" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="96" pc="268436332" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="97" pc="268436358" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="99" pc="268436406" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="101" pc="268436454" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="103" pc="268436502" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="105" pc="268436550" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="107" pc="268436572" symbol="updatehrZoneTimeAndMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="115" pc="268436598" symbol="calculateMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="116" pc="268436602" symbol="calculateMeps"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="9" pc="268436694" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="10" pc="268436698" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="14" pc="268436719" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="15" pc="268436739" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="18" pc="268436760" symbol="setColor"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="19" pc="268436764" symbol="setColor"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="22" pc="268436775" symbol="draw"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="23" pc="268436779" symbol="draw"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="24" pc="268436811" symbol="draw"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="5" pc="268436824" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="6" pc="268436828" symbol="initialize"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="10" pc="268436847" symbol="onStart"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="14" pc="268436852" symbol="onStop"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="18" pc="268436857" symbol="getInitialView"/>
-<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="19" pc="268436861" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268436899" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="23" pc="268436911" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="24" pc="268436935" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="25" pc="268437098" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268437123" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268437175" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268437221" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268437384" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="30" pc="268437409" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="31" pc="268437461" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="34" pc="268437507" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="43" pc="268437545" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="47" pc="268437557" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="48" pc="268437581" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="49" pc="268437714" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="52" pc="268437847" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="61" pc="268437885" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="65" pc="268437897" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="66" pc="268437921" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="67" pc="268438054" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="70" pc="268438187" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="79" pc="268438225" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="83" pc="268438237" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="84" pc="268438261" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="85" pc="268438394" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="88" pc="268438527" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="97" pc="268438565" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="101" pc="268438577" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="102" pc="268438601" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="103" pc="268438734" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="106" pc="268438867" symbol="BottomRightLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="20" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="21" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="22" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="23" pc="268435491" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="24" pc="268435504" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="25" pc="268435517" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="26" pc="268435530" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="27" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="28" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="29" pc="268435569" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="30" pc="268435582" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="31" pc="268435617" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="32" pc="268435639" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="37" pc="268435653" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="39" pc="268435657" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="40" pc="268435700" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="41" pc="268435724" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="42" pc="268435746" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="43" pc="268435770" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="46" pc="268435786" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="47" pc="268435838" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="48" pc="268435890" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="50" pc="268435942" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="57" pc="268435946" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="59" pc="268435950" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="61" pc="268435964" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="62" pc="268435976" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="63" pc="268435992" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="68" pc="268436014" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="70" pc="268436018" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="73" pc="268436039" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="78" pc="268436079" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="79" pc="268436103" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="80" pc="268436127" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="81" pc="268436147" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="82" pc="268436167" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="84" pc="268436201" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="85" pc="268436225" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="86" pc="268436249" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="87" pc="268436269" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="88" pc="268436289" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="90" pc="268436323" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="91" pc="268436347" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="92" pc="268436371" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="93" pc="268436391" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="94" pc="268436411" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="95" pc="268436432" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="99" pc="268436475" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="103" pc="268436496" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="104" pc="268436500" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="105" pc="268436511" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="106" pc="268436524" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="107" pc="268436550" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="109" pc="268436598" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="111" pc="268436646" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="113" pc="268436694" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="115" pc="268436742" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="117" pc="268436764" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="125" pc="268436790" symbol="calculateMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="126" pc="268436794" symbol="calculateMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="129" pc="268436886" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="130" pc="268436890" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="132" pc="268436897" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="133" pc="268436908" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="134" pc="268436921" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="136" pc="268436934" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="140" pc="268436944" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="143" pc="268436948" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="144" pc="268436952" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="146" pc="268436960" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="147" pc="268436980" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="148" pc="268437000" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="150" pc="268437043" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="151" pc="268437056" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="153" pc="268437099" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="154" pc="268437119" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="156" pc="268437162" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="157" pc="268437182" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="159" pc="268437225" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="160" pc="268437245" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="162" pc="268437268" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="163" pc="268437288" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="166" pc="268437308" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="169" pc="268437312" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="170" pc="268437316" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="171" pc="268437323" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="172" pc="268437340" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsView.mc" lineNum="175" pc="268437374" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="9" pc="268437384" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="10" pc="268437388" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="14" pc="268437409" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="15" pc="268437429" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="18" pc="268437450" symbol="setColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="19" pc="268437454" symbol="setColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="22" pc="268437465" symbol="draw"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="23" pc="268437469" symbol="draw"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsBackground.mc" lineNum="24" pc="268437501" symbol="draw"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="5" pc="268437514" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="6" pc="268437518" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="10" pc="268437537" symbol="onStart"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="14" pc="268437542" symbol="onStop"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="18" pc="268437547" symbol="getInitialView"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMEPs\\source\\MyZoneMEPsApp.mc" lineNum="19" pc="268437551" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="21" pc="268437589" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268437601" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268437625" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268437758" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268437891" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268438024" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268438157" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268438290" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268438423" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="21" method="true" symbol="calculateMeps"/>
+<entry id="23" method="true" symbol="calculateMeps"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="26" method="true" symbol="TopLeftLayout"/>
+<entry id="26" method="true" symbol="gethrper"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="32" symbol="hrlabel"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="8389138" symbol="label"/>
-<entry id="28" method="true" symbol="BottomLeftLayout"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry id="25" method="true" symbol="MainLayout"/>
+<entry id="30" method="true" symbol="MainLayout"/>
+<entry field="true" id="20" symbol="currentHR"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="9" object="true" symbol="MyZoneMEPsView"/>
 <entry field="true" id="8389130" symbol="mColor"/>
 <entry id="8389131" method="true" symbol="setColor"/>
 <entry field="true" id="11" symbol="mValue"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="30" symbol="AppName"/>
+<entry field="true" id="33" symbol="AppName"/>
 <entry id="8388647" module="true" symbol="UserProfile"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
 <entry id="10" object="true" symbol="MyZoneMEPsApp"/>
-<entry field="true" id="24" symbol="LauncherIcon"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry id="25" method="true" symbol="getHrColor"/>
 <entry field="true" id="18" symbol="zone5"/>
 <entry field="true" id="17" symbol="zone4"/>
 <entry field="true" id="16" symbol="zone3"/>
@@ -132,57 +151,56 @@
 <entry id="8389137" method="true" symbol="compute"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="27" method="true" symbol="TopRightLayout"/>
 <entry field="true" id="8388747" symbol="currentHeartRate"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
-<entry id="23" module="true" symbol="Layouts"/>
-<entry id="29" method="true" symbol="BottomRightLayout"/>
+<entry id="24" method="true" symbol="getHR"/>
+<entry field="true" id="31" symbol="hrperlabel"/>
+<entry id="28" module="true" symbol="Layouts"/>
+<entry field="true" id="21" symbol="hrmax"/>
+<entry field="true" id="34" symbol="meplabel"/>
 <entry field="true" id="12" symbol="hrzone"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry field="true" id="19" symbol="meps"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry id="22" module="true" symbol="Menus"/>
+<entry id="27" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry id="20" method="true" symbol="updatehrZoneTimeAndMeps"/>
+<entry id="22" method="true" symbol="updatehrZoneTimeAndMeps"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436046" name="valueView" stackId="4" startPc="268435917"/>
-<entry endPc="268436046" name="labelView" stackId="3" startPc="268435917"/>
-<entry endPc="268436101" name="obscurityFlags" stackId="2" startPc="268435622"/>
-<entry endPc="268436102" name="dc" stackId="1" startPc="268435618"/>
-<entry endPc="268436149" name="info" stackId="1" startPc="268436102"/>
-<entry endPc="268436303" name="label" stackId="3" startPc="268436153"/>
-<entry endPc="268436303" name="value" stackId="2" startPc="268436153"/>
-<entry endPc="268436304" name="dc" stackId="1" startPc="268436149"/>
-<entry endPc="268436598" name="info" stackId="1" startPc="268436304"/>
-<entry endPc="268436759" name="dictionary" stackId="1" startPc="268436698"/>
-<entry endPc="268436775" name="color" stackId="1" startPc="268436760"/>
-<entry endPc="268436824" name="dc" stackId="1" startPc="268436775"/>
-<entry endPc="268436852" name="state" stackId="1" startPc="268436847"/>
-<entry endPc="268436857" name="state" stackId="1" startPc="268436852"/>
-<entry endPc="268437544" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268436911"/>
-<entry endPc="268437544" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268436911"/>
-<entry endPc="268437544" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268436911"/>
-<entry endPc="268437544" name="rez_cmp_local_custom_drawable_ACZ42CSYJE5353YXEG32" stackId="2" startPc="268436911"/>
-<entry endPc="268437544" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268436911"/>
-<entry endPc="268437545" name="dc" stackId="1" startPc="268436899"/>
-<entry endPc="268437884" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437557"/>
-<entry endPc="268437884" name="rez_cmp_local_custom_drawable_QBANN5GYXNIPRQM0I7VP" stackId="2" startPc="268437557"/>
-<entry endPc="268437884" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437557"/>
-<entry endPc="268437885" name="dc" stackId="1" startPc="268437545"/>
-<entry endPc="268438224" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437897"/>
-<entry endPc="268438224" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437897"/>
-<entry endPc="268438224" name="rez_cmp_local_custom_drawable_UZISPRNUMYDDDTQ81MMA" stackId="2" startPc="268437897"/>
-<entry endPc="268438225" name="dc" stackId="1" startPc="268437885"/>
-<entry endPc="268438564" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438237"/>
-<entry endPc="268438564" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438237"/>
-<entry endPc="268438564" name="rez_cmp_local_custom_drawable_3W0M42R0WYY87EGALYJP" stackId="2" startPc="268438237"/>
-<entry endPc="268438565" name="dc" stackId="1" startPc="268438225"/>
-<entry endPc="268438904" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438577"/>
-<entry endPc="268438904" name="rez_cmp_local_custom_drawable_ALG8JPA8EPUANOFQXO6S" stackId="2" startPc="268438577"/>
-<entry endPc="268438904" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438577"/>
-<entry endPc="268438905" name="dc" stackId="1" startPc="268438565"/>
+<entry endPc="268435945" name="mepvalueView" stackId="3" startPc="268435657"/>
+<entry endPc="268435945" name="meplabelView" stackId="2" startPc="268435657"/>
+<entry endPc="268435946" name="dc" stackId="1" startPc="268435653"/>
+<entry endPc="268436014" name="info" stackId="1" startPc="268435946"/>
+<entry endPc="268436495" name="colors" stackId="2" startPc="268436018"/>
+<entry endPc="268436495" name="hrpervalue" stackId="7" startPc="268436018"/>
+<entry endPc="268436495" name="hrvalue" stackId="5" startPc="268436018"/>
+<entry endPc="268436495" name="meplabel" stackId="4" startPc="268436018"/>
+<entry endPc="268436495" name="hrper" stackId="9" startPc="268436018"/>
+<entry endPc="268436495" name="hrperlabel" stackId="8" startPc="268436018"/>
+<entry endPc="268436495" name="hrlabel" stackId="6" startPc="268436018"/>
+<entry endPc="268436495" name="mepvalue" stackId="3" startPc="268436018"/>
+<entry endPc="268436496" name="dc" stackId="1" startPc="268436014"/>
+<entry endPc="268436790" name="info" stackId="1" startPc="268436496"/>
+<entry endPc="268436947" name="currentHr" stackId="2" startPc="268436890"/>
+<entry endPc="268436948" name="info" stackId="1" startPc="268436886"/>
+<entry endPc="268437311" name="colors" stackId="2" startPc="268436952"/>
+<entry endPc="268437312" name="value" stackId="1" startPc="268436948"/>
+<entry endPc="268437383" name="percent" stackId="2" startPc="268437316"/>
+<entry endPc="268437384" name="current" stackId="1" startPc="268437312"/>
+<entry endPc="268437449" name="dictionary" stackId="1" startPc="268437388"/>
+<entry endPc="268437465" name="color" stackId="1" startPc="268437450"/>
+<entry endPc="268437514" name="dc" stackId="1" startPc="268437465"/>
+<entry endPc="268437542" name="state" stackId="1" startPc="268437537"/>
+<entry endPc="268437547" name="state" stackId="1" startPc="268437542"/>
+<entry endPc="268438500" name="rez_cmp_local_bitmap_hrpervalue" stackId="8" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_bitmap_hrvalue" stackId="6" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_bitmap_meplabel" stackId="3" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_bitmap_hrperlabel" stackId="7" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_bitmap_hrlabel" stackId="5" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_bitmap_mepvalue" stackId="4" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_custom_drawable_9ZPJE4JIE4E3K28I3BXW" stackId="2" startPc="268437601"/>
+<entry endPc="268438501" name="dc" stackId="1" startPc="268437589"/>
 </localVars>
 <annotations/>
 <functions>
@@ -206,6 +224,18 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="calculateMeps" parent="MyZoneMEPsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHR" parent="MyZoneMEPsView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHrColor" parent="MyZoneMEPsView">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="gethrper" parent="MyZoneMEPsView">
+<param id="current"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Background">
@@ -237,34 +267,18 @@
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
 <dataEntry offset="253" parentId="globals" symbolId="MyZoneMEPsView" type="class"/>
-<dataEntry offset="412" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="491" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="530" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="561" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="592" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="623" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="694" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="741" parentId="globals" symbolId="MyZoneMEPsApp" type="class"/>
+<dataEntry offset="452" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="531" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="570" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="601" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="632" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="663" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="702" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="765" parentId="globals" symbolId="MyZoneMEPsApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
