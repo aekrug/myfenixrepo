@@ -7,6 +7,7 @@ class MyZoneMEPsView extends Ui.DataField {
 
     hidden var mValue;
     hidden var hrzone;
+    hidden var zone0;
     hidden var zone1;
     hidden var zone2;
     hidden var zone3;
@@ -18,6 +19,7 @@ class MyZoneMEPsView extends Ui.DataField {
         DataField.initialize();
         mValue = 0.0f;
         meps = 0;
+        zone0 = 0;
         zone1 = 0;
         zone2 = 0;
         zone3 = 0;
@@ -51,9 +53,9 @@ class MyZoneMEPsView extends Ui.DataField {
         } else {
             View.setLayout(Rez.Layouts.MainLayout(dc));
             var labelView = View.findDrawableById("label");
-            labelView.locY = labelView.locY - 16;
+            labelView.locY = labelView.locY - 40;
             var valueView = View.findDrawableById("value");
-            valueView.locY = valueView.locY + 7;
+            valueView.locY = valueView.locY;
         }
 
         View.findDrawableById("label").setText(Rez.Strings.label);
@@ -65,8 +67,31 @@ class MyZoneMEPsView extends Ui.DataField {
     // Note that compute() and onUpdate() are asynchronous, and there is no
     // guarantee that compute() will be called before onUpdate().
     function compute(info) {
-        // See Activity.Info in the documentation for available information.
-        if(info has :currentHeartRate){
+        //every second, check the hr zone and increase timer
+        updatehrZoneTimeAndMeps(info);
+        //recalculate meps
+        calculateMeps();
+        mValue = meps;
+    }
+
+    // Display the value you computed here. This will be called
+    // once a second when the data field is visible.
+    function onUpdate(dc) {
+        // Set the foreground color and value
+        var value = View.findDrawableById("value");
+        var label = View.findDrawableById("label");
+        value.setColor(Gfx.COLOR_WHITE);
+        label.setColor(Gfx.COLOR_WHITE);
+        value.setText(mValue.format("%.0f"));
+        
+        
+        // Call parent's onUpdate(dc) to redraw the layout
+        View.onUpdate(dc);
+
+    }
+
+	function updatehrZoneTimeAndMeps(info) {
+		if(info has :currentHeartRate){
             if(info.currentHeartRate != null){
                 if (info.currentHeartRate > hrzone[4]) {
                 	zone5++;
@@ -78,32 +103,16 @@ class MyZoneMEPsView extends Ui.DataField {
 					zone2++;
                 } else if (info.currentHeartRate > hrzone[0]) {
                 	zone1++;
+                } else {
+                	zone0++;
                 }
-                meps = ((zone5/60)*4) + ((zone4/60)*4) + ((zone3/60)*3) + ((zone2/60)*2);
             } else {
                 //do nothing
             }
         }
-        mValue = meps;
-    }
-
-    // Display the value you computed here. This will be called
-    // once a second when the data field is visible.
-    function onUpdate(dc) {
-        // Set the background color
-        View.findDrawableById("Background").setColor(getBackgroundColor());
-
-        // Set the foreground color and value
-        var value = View.findDrawableById("value");
-        if (getBackgroundColor() == Gfx.COLOR_BLACK) {
-            value.setColor(Gfx.COLOR_WHITE);
-        } else {
-            value.setColor(Gfx.COLOR_BLACK);
-        }
-        value.setText(mValue.format("%.0f"));
-
-        // Call parent's onUpdate(dc) to redraw the layout
-        View.onUpdate(dc);
-    }
-
+	}
+	
+	function calculateMeps() {
+		meps = ((zone5/60)*4) + ((zone4/60)*4) + ((zone3/60)*3) + ((zone2/60)*2);
+	}
 }

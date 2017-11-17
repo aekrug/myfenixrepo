@@ -11,6 +11,7 @@ class Background extends Ui.Drawable {
             :identifier => "Background"
         };
 
+		mColor = Gfx.COLOR_TRANSPARENT;
         Drawable.initialize(dictionary);
     }
 
