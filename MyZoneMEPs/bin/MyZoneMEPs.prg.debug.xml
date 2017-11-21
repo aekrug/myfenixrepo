@@ -195,11 +195,11 @@
 <entry endPc="268437547" name="state" stackId="1" startPc="268437542"/>
 <entry endPc="268438500" name="rez_cmp_local_bitmap_hrpervalue" stackId="8" startPc="268437601"/>
 <entry endPc="268438500" name="rez_cmp_local_bitmap_hrvalue" stackId="6" startPc="268437601"/>
+<entry endPc="268438500" name="rez_cmp_local_custom_drawable_OS6NB25THORDS4UJT8X0" stackId="2" startPc="268437601"/>
 <entry endPc="268438500" name="rez_cmp_local_bitmap_meplabel" stackId="3" startPc="268437601"/>
 <entry endPc="268438500" name="rez_cmp_local_bitmap_hrperlabel" stackId="7" startPc="268437601"/>
 <entry endPc="268438500" name="rez_cmp_local_bitmap_hrlabel" stackId="5" startPc="268437601"/>
 <entry endPc="268438500" name="rez_cmp_local_bitmap_mepvalue" stackId="4" startPc="268437601"/>
-<entry endPc="268438500" name="rez_cmp_local_custom_drawable_9ZPJE4JIE4E3K28I3BXW" stackId="2" startPc="268437601"/>
 <entry endPc="268438501" name="dc" stackId="1" startPc="268437589"/>
 </localVars>
 <annotations/>

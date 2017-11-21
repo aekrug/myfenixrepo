@@ -150,17 +150,17 @@ class MyZoneMEPsView extends Ui.DataField {
 			colors[0] = 0xfff200;
 			colors[1] = Gfx.COLOR_BLACK;
 		} else if (value > hrzone[2]) {
-			colors[0] = Gfx.COLOR_DK_GREEN;
-			colors[1] = Gfx.COLOR_WHITE;
+			colors[0] = Gfx.COLOR_BLACK;
+			colors[1] = Gfx.COLOR_GREEN;
 		} else if (value > hrzone[1]) {
-			colors[0] = Gfx.COLOR_DK_BLUE;
+			colors[0] = Gfx.COLOR_BLACK;
 			colors[1] = Gfx.COLOR_BLUE;
 		} else if (value > hrzone[0]) {
 			colors[0] = Gfx.COLOR_DK_GRAY;
-			colors[1] = Gfx.COLOR_GREEN;
-		} else {
-			colors[0] = Gfx.COLOR_LT_GRAY;
 			colors[1] = Gfx.COLOR_BLACK;
+		} else {
+			colors[0] = Gfx.COLOR_DK_GRAY;
+			colors[1] = Gfx.COLOR_LT_GRAY;
 		}
 		
 		return colors;
