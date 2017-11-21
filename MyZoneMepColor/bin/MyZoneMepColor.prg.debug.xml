@@ -1,102 +1,146 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="8" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="9" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="10" pc="268435478" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="15" pc="268435492" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="16" pc="268435496" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="19" pc="268435515" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="20" pc="268435538" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="24" pc="268435607" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="28" pc="268435676" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="32" pc="268435745" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="36" pc="268435791" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="37" pc="268435834" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="38" pc="268435858" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="39" pc="268435880" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="40" pc="268435904" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="43" pc="268435926" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="44" pc="268435978" symbol="onLayout"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="51" pc="268435982" symbol="compute"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="53" pc="268435986" symbol="compute"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="54" pc="268435997" symbol="compute"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="55" pc="268436010" symbol="compute"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="57" pc="268436029" symbol="compute"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="64" pc="268436046" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="66" pc="268436050" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="69" pc="268436093" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="70" pc="268436117" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="71" pc="268436144" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="73" pc="268436171" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="75" pc="268436195" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="78" pc="268436229" symbol="onUpdate"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="9" pc="268436250" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="10" pc="268436254" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="14" pc="268436275" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="17" pc="268436296" symbol="setColor"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="18" pc="268436300" symbol="setColor"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="21" pc="268436311" symbol="draw"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="22" pc="268436315" symbol="draw"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="23" pc="268436347" symbol="draw"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="5" pc="268436360" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="6" pc="268436364" symbol="initialize"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="10" pc="268436383" symbol="onStart"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="14" pc="268436388" symbol="onStop"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="18" pc="268436393" symbol="getInitialView"/>
-<entry filename="C:\\workspace\\github\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="19" pc="268436397" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268436435" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="23" pc="268436447" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="24" pc="268436471" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="25" pc="268436634" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268436659" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268436711" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268436757" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268436920" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="30" pc="268436945" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="31" pc="268436997" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="34" pc="268437043" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="43" pc="268437081" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="47" pc="268437093" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="48" pc="268437117" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="49" pc="268437250" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="52" pc="268437383" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="61" pc="268437421" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="65" pc="268437433" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="66" pc="268437457" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="67" pc="268437590" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="70" pc="268437723" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="79" pc="268437761" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="83" pc="268437773" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="84" pc="268437797" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="85" pc="268437930" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="88" pc="268438063" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="97" pc="268438101" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="101" pc="268438113" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="102" pc="268438137" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="103" pc="268438270" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="106" pc="268438403" symbol="BottomRightLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="18" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="19" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="20" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="21" pc="268435491" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="22" pc="268435504" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="23" pc="268435517" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="24" pc="268435530" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="25" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="26" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="27" pc="268435569" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="28" pc="268435582" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="29" pc="268435621" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="30" pc="268435643" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="35" pc="268435657" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="37" pc="268435661" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="38" pc="268435704" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="39" pc="268435728" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="40" pc="268435750" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="41" pc="268435774" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="44" pc="268435796" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="45" pc="268435848" symbol="onLayout"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="52" pc="268435852" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="54" pc="268435856" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="56" pc="268435870" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="57" pc="268435882" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="58" pc="268435898" symbol="compute"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="63" pc="268435920" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="65" pc="268435924" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="66" pc="268435968" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="69" pc="268435988" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="72" pc="268436009" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="73" pc="268436037" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="75" pc="268436064" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="76" pc="268436092" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="77" pc="268436143" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="81" pc="268436211" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="82" pc="268436239" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="84" pc="268436266" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="85" pc="268436294" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="86" pc="268436345" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="87" pc="268436366" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="90" pc="268436443" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="91" pc="268436471" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="93" pc="268436498" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="94" pc="268436526" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="95" pc="268436577" symbol="onUpdate"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="100" pc="268436646" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="101" pc="268436650" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="102" pc="268436661" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="103" pc="268436674" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="104" pc="268436700" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="106" pc="268436748" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="108" pc="268436796" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="110" pc="268436844" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="112" pc="268436892" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="114" pc="268436914" symbol="updatehrZoneTimeAndMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="122" pc="268436940" symbol="calculateMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="123" pc="268436944" symbol="calculateMeps"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="126" pc="268437036" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="127" pc="268437040" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="129" pc="268437047" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="130" pc="268437058" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="131" pc="268437071" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="133" pc="268437084" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="137" pc="268437094" symbol="getHR"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="140" pc="268437098" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="141" pc="268437102" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="143" pc="268437110" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="144" pc="268437130" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="145" pc="268437150" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="147" pc="268437193" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="148" pc="268437213" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="150" pc="268437249" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="151" pc="268437269" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="153" pc="268437312" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="154" pc="268437332" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="156" pc="268437375" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="157" pc="268437395" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="159" pc="268437418" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="160" pc="268437438" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="164" pc="268437458" symbol="getHrColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="167" pc="268437462" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="168" pc="268437466" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="169" pc="268437473" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="170" pc="268437490" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorView.mc" lineNum="173" pc="268437524" symbol="gethrper"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="9" pc="268437534" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="10" pc="268437538" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="14" pc="268437559" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="17" pc="268437580" symbol="setColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="18" pc="268437584" symbol="setColor"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="21" pc="268437595" symbol="draw"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="22" pc="268437599" symbol="draw"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorBackground.mc" lineNum="23" pc="268437631" symbol="draw"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="5" pc="268437644" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="6" pc="268437648" symbol="initialize"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="10" pc="268437667" symbol="onStart"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="14" pc="268437672" symbol="onStop"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="18" pc="268437677" symbol="getInitialView"/>
+<entry filename="C:\\workspace\\myfenixrepo\\MyZoneMepColor\\source\\MyZoneMepColorApp.mc" lineNum="19" pc="268437681" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268437719" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268437731" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268437755" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268437918" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268437943" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268437995" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268438041" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268438204" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268438229" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268438281" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268438327" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="28" method="true" symbol="calculateMeps"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry id="31" method="true" symbol="gethrper"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry field="true" id="8389138" symbol="label"/>
-<entry id="17" method="true" symbol="BottomLeftLayout"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="14" method="true" symbol="MainLayout"/>
+<entry field="true" id="26" symbol="currentHR"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry field="true" id="8389130" symbol="mColor"/>
 <entry id="8389131" method="true" symbol="setColor"/>
-<entry field="true" id="20" symbol="mValue"/>
+<entry field="true" id="16" symbol="mValue"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="19" symbol="AppName"/>
+<entry field="true" id="15" symbol="AppName"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
 <entry field="true" id="13" symbol="LauncherIcon"/>
 <entry id="10" object="true" symbol="MyZoneMepColorApp"/>
+<entry id="30" method="true" symbol="getHrColor"/>
+<entry field="true" id="23" symbol="zone5"/>
+<entry field="true" id="22" symbol="zone4"/>
+<entry field="true" id="21" symbol="zone3"/>
+<entry field="true" id="20" symbol="zone2"/>
+<entry field="true" id="19" symbol="zone1"/>
+<entry field="true" id="18" symbol="zone0"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
@@ -104,53 +148,47 @@
 <entry id="8389137" method="true" symbol="compute"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="16" method="true" symbol="TopRightLayout"/>
 <entry field="true" id="8388747" symbol="currentHeartRate"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
+<entry id="29" method="true" symbol="getHR"/>
 <entry id="12" module="true" symbol="Layouts"/>
-<entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry field="true" id="25" symbol="hrmax"/>
+<entry field="true" id="24" symbol="hrzone"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="17" symbol="meps"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="11" module="true" symbol="Menus"/>
 <entry id="9" object="true" symbol="MyZoneMepColorView"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="27" method="true" symbol="updatehrZoneTimeAndMeps"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435926" name="valueView" stackId="4" startPc="268435791"/>
-<entry endPc="268435926" name="labelView" stackId="3" startPc="268435791"/>
-<entry endPc="268435981" name="obscurityFlags" stackId="2" startPc="268435496"/>
-<entry endPc="268435982" name="dc" stackId="1" startPc="268435492"/>
-<entry endPc="268436046" name="info" stackId="1" startPc="268435982"/>
-<entry endPc="268436249" name="value" stackId="2" startPc="268436050"/>
-<entry endPc="268436250" name="dc" stackId="1" startPc="268436046"/>
-<entry endPc="268436295" name="dictionary" stackId="1" startPc="268436254"/>
-<entry endPc="268436311" name="color" stackId="1" startPc="268436296"/>
-<entry endPc="268436360" name="dc" stackId="1" startPc="268436311"/>
-<entry endPc="268436388" name="state" stackId="1" startPc="268436383"/>
-<entry endPc="268436393" name="state" stackId="1" startPc="268436388"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_custom_drawable_6D02NI1X1ZZW7MM1KG5F" stackId="2" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268436447"/>
-<entry endPc="268437081" name="dc" stackId="1" startPc="268436435"/>
-<entry endPc="268437420" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437093"/>
-<entry endPc="268437420" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437093"/>
-<entry endPc="268437420" name="rez_cmp_local_custom_drawable_WJWGT0N5WWUD5YZZJ8R6" stackId="2" startPc="268437093"/>
-<entry endPc="268437421" name="dc" stackId="1" startPc="268437081"/>
-<entry endPc="268437760" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437433"/>
-<entry endPc="268437760" name="rez_cmp_local_custom_drawable_OHD7WBBJ8LJ69TYBIONB" stackId="2" startPc="268437433"/>
-<entry endPc="268437760" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437433"/>
-<entry endPc="268437761" name="dc" stackId="1" startPc="268437421"/>
-<entry endPc="268438100" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437773"/>
-<entry endPc="268438100" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437773"/>
-<entry endPc="268438100" name="rez_cmp_local_custom_drawable_SZ3SOU24CCCN3URGKDZ6" stackId="2" startPc="268437773"/>
-<entry endPc="268438101" name="dc" stackId="1" startPc="268437761"/>
-<entry endPc="268438440" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438113"/>
-<entry endPc="268438440" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438113"/>
-<entry endPc="268438440" name="rez_cmp_local_custom_drawable_DIVYVKGMGIV7GF98MDO7" stackId="2" startPc="268438113"/>
-<entry endPc="268438441" name="dc" stackId="1" startPc="268438101"/>
+<entry endPc="268435851" name="valueView" stackId="3" startPc="268435661"/>
+<entry endPc="268435851" name="labelView" stackId="2" startPc="268435661"/>
+<entry endPc="268435852" name="dc" stackId="1" startPc="268435657"/>
+<entry endPc="268435920" name="info" stackId="1" startPc="268435852"/>
+<entry endPc="268436645" name="colors" stackId="2" startPc="268435924"/>
+<entry endPc="268436645" name="hrper" stackId="3" startPc="268435924"/>
+<entry endPc="268436646" name="dc" stackId="1" startPc="268435920"/>
+<entry endPc="268436940" name="info" stackId="1" startPc="268436646"/>
+<entry endPc="268437097" name="currentHr" stackId="2" startPc="268437040"/>
+<entry endPc="268437098" name="info" stackId="1" startPc="268437036"/>
+<entry endPc="268437461" name="colors" stackId="2" startPc="268437102"/>
+<entry endPc="268437462" name="value" stackId="1" startPc="268437098"/>
+<entry endPc="268437533" name="percent" stackId="2" startPc="268437466"/>
+<entry endPc="268437534" name="current" stackId="1" startPc="268437462"/>
+<entry endPc="268437579" name="dictionary" stackId="1" startPc="268437538"/>
+<entry endPc="268437595" name="color" stackId="1" startPc="268437580"/>
+<entry endPc="268437644" name="dc" stackId="1" startPc="268437595"/>
+<entry endPc="268437672" name="state" stackId="1" startPc="268437667"/>
+<entry endPc="268437677" name="state" stackId="1" startPc="268437672"/>
+<entry endPc="268438364" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437731"/>
+<entry endPc="268438364" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437731"/>
+<entry endPc="268438364" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437731"/>
+<entry endPc="268438364" name="rez_cmp_local_custom_drawable_2N6XP66HK870R73Z6A8P" stackId="2" startPc="268437731"/>
+<entry endPc="268438364" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437731"/>
+<entry endPc="268438365" name="dc" stackId="1" startPc="268437719"/>
 </localVars>
 <annotations/>
 <functions>
@@ -167,6 +205,25 @@
 </functionEntry>
 <functionEntry accessMode="public" name="onUpdate" parent="MyZoneMepColorView">
 <param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updatehrZoneTimeAndMeps" parent="MyZoneMepColorView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculateMeps" parent="MyZoneMepColorView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHR" parent="MyZoneMepColorView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHrColor" parent="MyZoneMepColorView">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="gethrper" parent="MyZoneMepColorView">
+<param id="current"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Background">
@@ -198,22 +255,6 @@
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
@@ -224,8 +265,8 @@
 <dataEntry offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
 <dataEntry offset="433" parentId="Rez" symbolId="JsonData" type="module"/>
 <dataEntry offset="464" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="535" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="582" parentId="globals" symbolId="MyZoneMepColorView" type="class"/>
-<dataEntry offset="661" parentId="globals" symbolId="MyZoneMepColorApp" type="class"/>
+<dataEntry offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="550" parentId="globals" symbolId="MyZoneMepColorView" type="class"/>
+<dataEntry offset="749" parentId="globals" symbolId="MyZoneMepColorApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
